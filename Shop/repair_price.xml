@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+<!DOCTYPE price SYSTEM "price.dtd">
+<price>
+   <type>
+      <name>Full-fleged repair</name>
+      <brand>All brands</brand>
+      <model>All models</model>
+      <price>7000</price>
+      <duration>4 days</duration>
+      <subtotal>7000</subtotal>
+   </type>
+   <type>
+      <name>Screen repair</name>
+      <brand>All brands</brand>
+      <model>All models</model>
+      <price>4000</price>
+      <duration>2 days</duration>
+      <subtotal>4000</subtotal>
+   </type>
+   <type>
+      <name>Data Recovery</name>
+      <brand>Specific brands only</brand>
+      <model>Specific models only</model>
+      <price>10000</price>
+      <duration>1-2 weeks</duration>
+      <subtotal>10000</subtotal>
+   </type>
+   
+</price>
